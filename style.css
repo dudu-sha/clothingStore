@@ -1,0 +1,55 @@
+.main{
+    background-image: url('https://img.freepik.com/free-photo/embracing-trendy-fashionable-couple-isolated-white-studio-background-caucasian-woman-man-posing-basic-minimal-stylish-clothes-concept-relations-fashion-beauty-love-copyspace_155003-36673.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.overlay{
+    height: 30rem;
+    width:70rem; 
+}
+.text{
+    z-index: 9;
+}
+.cur1{
+    background-image: url('https://i.pinimg.com/474x/0f/92/3e/0f923e64aa6aaf42126361d5608dda5d.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cur2{
+    background-image: url('https://i.pinimg.com/474x/c0/fa/74/c0fa74a8d52891b0555e476d7212f293.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cur3{
+    background-image: url('https://i.pinimg.com/474x/89/81/ad/8981ada61db01d2235f2b57c0d501fd8.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cur4{
+    background-image: url('https://i.pinimg.com/474x/59/c7/54/59c7545a4c670319080fbcf7292431cb.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.feat1{
+    background-image: url('https://i.pinimg.com/474x/a5/a5/15/a5a515925689677e2c70d7aaaee4a224.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.feat2{
+    background-image: url('https://i.pinimg.com/474x/c3/72/04/c37204243e038900305de6d6797352bb.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.feat3{
+    background-image: url('https://i.pinimg.com/474x/db/71/1d/db711d12cdb6d5c063d9a63e264a438b.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
