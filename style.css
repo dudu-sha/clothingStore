@@ -40,16 +40,35 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    width:22rem
 }
 .feat2{
     background-image: url('https://i.pinimg.com/474x/c3/72/04/c37204243e038900305de6d6797352bb.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    width:22rem
+
+}
+.Ad{
+    background-image: url('https://i.pinimg.com/564x/8a/76/ef/8a76ef5bb97ff5fbcbf2b4b4da497424.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.padfeat{
+    padding-left: 34rem;
+    padding-right: 34rem;
+}
+.feath{
+    width:22rem;
+    height: 29rem;
+    
 }
 .feat3{
     background-image: url('https://i.pinimg.com/474x/db/71/1d/db711d12cdb6d5c063d9a63e264a438b.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    width:22rem
 }
